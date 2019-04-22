@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<url>
+    <web_url>
+        <item url="www.amazon.com">item1abc</item>
+        <item download_element="*.jpg">item2abc</item>
+        <item output="downloaded">downloaded</item>
+    </web_url>
+</url>

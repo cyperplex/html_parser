@@ -1,0 +1,7 @@
+[
+  {
+    "url": "www.amazon.com",
+    "download_element": "*.jpg",
+    "output": "downloaded"
+  }
+]
